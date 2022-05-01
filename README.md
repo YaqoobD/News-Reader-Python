@@ -1,3 +1,3 @@
 # News-Reader-Python
 
-<video src='https://www.youtube.com/watch?v=qMck70tLDuo' width=180/>
+<video src='https://www.kapwing.com/videos/626e2096dee4ac00a27d06bf' width=180/>
